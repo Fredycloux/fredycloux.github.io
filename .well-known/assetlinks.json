@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.petfyco.app",
+    "sha256_cert_fingerprints": ["C3:1C:32:ED:33:A8:EE:54:8C:3F:7D:9A:59:6C:1B:C9:A8:AF:84:FA:2B:A8:C6:0A:35:F1:35:23:72:ED:C8:CE"]
+  }
+}]
