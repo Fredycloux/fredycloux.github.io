@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.petfyco.app",
-    "sha256_cert_fingerprints": ["C3:1C:32:ED:33:A8:EE:54:8C:3F:7D:9A:59:6C:1B:C9:A8:AF:84:FA:2B:A8:C6:0A:35:F1:35:23:72:ED:C8:CE"]
+    "sha256_cert_fingerprints": [
+      "C3:1C:32:ED:33:A8:EE:54:8C:3F:7D:9A:59:6C:1B:C9:A8:AF:84:FA:2B:A8:C6:0A:35:F1:35:23:72:ED:C8:CE",
+      "74:18:A3:9E:F2:48:B0:79:1E:0C:73:8B:61:42:4E:A5:EF:6D:00:63:6B:09:00:83:AC:A2:F8:22:1D:FD:2D:F5"
+    ]
   }
 }]
